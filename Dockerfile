@@ -1,4 +1,4 @@
-FROM 172.30.87.224:5000/triggered-builds/build-trigger
+FROM 172.30.178.45:5000/newproj/trigparent
 
 # Create app directory
 # WORKDIR /usr/src/app
