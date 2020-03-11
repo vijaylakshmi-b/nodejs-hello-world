@@ -1,4 +1,4 @@
-FROM 172.30.36.228:5000/sid/parent:latest
+FROM 172.30.247.46:5000/sid/parent:latest
 
 # Create app directory
 # WORKDIR /usr/src/app
