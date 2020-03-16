@@ -1,4 +1,4 @@
-FROM 172.30.178.45:5000/newproj/trigparent
+FROM 172.30.228.75:5000/trigger/parent
 
 # Create app directory
 # WORKDIR /usr/src/app
