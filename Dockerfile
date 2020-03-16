@@ -1,4 +1,4 @@
-FROM 172.30.228.75:5000/trigger/parent
+FROM http://172.30.180.39:5000/session6/nodejs-hello-world-parent
 
 # Create app directory
 # WORKDIR /usr/src/app
